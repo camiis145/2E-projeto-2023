@@ -1,79 +1,320 @@
 .foto{
-  position: absolute;
-  width: 196px;
-  height: 306px;
-  left: 30px;
-  top: 6px;
+  /* 7ca3696b-495c-4754-9bed-48a3c47119c8 1 */
 
-  background: url(7ca3696b-495c-4754-9bed-48a3c47119c8.jpg);
+
+  position: absolute;
+  width: 162px;
+  height: 233px;
+  left: 28px;
+  top: 30px;
+
+  background: url(7ca3696b-495c-4754-9bed-48a3c47119c8);
   border-radius: 143.5px;
-}
-
-#sobremim{
-  position: absolute;
-  width: 226px;
-  height: 47px;
-  left: 836px;
-  top: 125px;
-
-  font-family: 'Kiwi Maru';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 36px;
-  line-height: 52px;
-
-  color: #000000;
-
 }
 
 #h1{
   /* Rectangle 2 */
+
+
   position: absolute;
-  width: 1038px;
-  height: 189px;
-  left: 256px;
-  top: 46px;
+  width: 1430px;
+  height: 304px;
+  left: 0px;
+  top: 0px;
 
   background: rgba(32, 178, 170, 0.72);
-  border-radius: 200px;
+  border-radius: 50px;
 }
-#contatos{
-  position: absolute;
-  width: 177px;
-  height: 58px;
-  left: 488px;
-  top: 125px;
+.wilson{
+  /* image 1 */
 
+
+  position: absolute;
+  width: 765px;
+  height: 488px;
+  left: 18px;
+  top: 350px;
+
+  background: url(image.png);
+  border-radius: 10px;
+}
+#experiencias{
+  /* Experiencias */
+  position: absolute;
+  width: 435px;
+  height: 73px;
+  left: 427px;
+  top: 110px;
   font-family: 'Kiwi Maru';
   font-style: normal;
   font-weight: 400;
-  font-size: 36px;
-  line-height: 52px;
+  font-size: 48px;
+  line-height: 70px;
+  color: #000000;
 }
-.fota{
-  box-sizing: border-box;
+
+#sobremim{
+  /* Sobre Mim */
 position: absolute;
-width: 818px;
-height: 544px;
-left: 330px;
-top: 530px;
-
-background: rgba(144, 238, 144, 0.41);
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 25px;
+width: 323px;
+height: 73px;
+left: 919px;
+top: 110px;
+font-family: 'Kiwi Maru';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 70px;
+color: #000000;
 }
-#h2{
-  box-sizing: border-box;
 
+#ellipse{
+  /* Rectangle 4 */
   position: absolute;
-  width: 832px;
-  height: 547px;
-  left: 325px;
-  top: 507px;
+  width: 234px;
+  height: 298px;
+  left: 1196px;
+  top: 322px;
+  background: #836FFF;
+  border-radius: 500px;
+}
 
-  background: rgba(144, 238, 144, 0.41);
-  border: 1px solid #000000;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 25px;
+#h3{
+  /* Camila Gallon Da Rocha */
+  position: absolute;
+  width: 116px;
+  height: 197px;
+  left: 1250px;
+  top: 350px;
+  font-family: 'Handlee';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 53px;
+  text-align: center;
+  color: #000000;
+}
+
+#h4{
+  /* Rectangle 3 */
+position: absolute;
+width: 1432px;
+height: 310px;
+left: -2px;
+top: 1529px;
+background: rgba(99, 182, 177, 0.72);
+border-radius: 50px;
+}
+
+#h5{
+  /* Rectangle 1 */
+  box-sizing: border-box;
+  position: absolute;
+  width: 751px;
+  height: 558px;
+  left: 679px;
+  top: 866px;
+  background: rgba(160, 32, 240, 0.55);
+  border: 1px solid #1400FF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+#h6{
+  /* Estudo no colégio estadual Wilson Joffre em Casacavel_Pr desde a sexta série. Atualmente estou no segundo ano do ensino médio na parte da manhã, no Itinerario de Exatas e Ciências da Natureza. */
+  position: absolute;
+  width: 592px;
+  height: 317px;
+  left: 758px;
+  top: 840px;
+  font-family: 'Handlee';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 53px;
+  text-align: center;
+  color: #000000;
+}
+
+.seta1{
+  /* th-removebg-preview (5) 2 */
+position: absolute;
+width: 318.2px;
+height: 90.53px;
+left: 900px;
+top: 600px;
+background: url(th-removebg-preview (5).png);
+transform: matrix(0.56, -0.83, -0.83, -0.56, 0, 0);
+}
+
+.seta2{
+  /* th-removebg-preview (5) 1 */
+  position: absolute;
+  width: 328.17px;
+  height: 87.54px;
+  left: 300px;
+  top: 1000px;
+  background: url(th-removebg-preview (5).png);
+  transform: rotate(43.69deg);
+}
+
+#contato{
+  /* Contatos: */
+position: absolute;
+width: 217px;
+height: 42px;
+left: 79px;
+top: 25px;
+font-family: 'Happy Monkey';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+color: #000000;
+}
+
+.email{
+  position: absolute;
+width: 132.99px;
+height: 83px;
+left: 334px;
+top: 1625px;
+background: url(email-envelope-mail-message-post-icon-466296-removebg-preview.png);
+}
+.facebook{
+  position: absolute;
+width: 75.1px;
+height: 83px;
+left: 753px;
+top: 1625px;
+background: url(23-232043_facebook-icon-black-white-removebg-preview.png);
+}
+
+.whats{
+  position: absolute;
+width: 86px;
+height: 83px;
+left: 1074px;
+top: 1625px;
+background: url(th-removebg-preview (3).png);
+}
+
+.insta{
+  position: absolute;
+width: 86.29px;
+height: 83px;
+left: 357px;
+top: 1750px;
+background: url(th-removebg-preview (1).png);
+}
+
+.pinterest{
+  position: absolute;
+  width: 102.66px;
+  height: 83px;
+  left: 740px;
+  top: 1750px;
+  background: url(32ef69f54cc88d7e564e4f77fb3e5daa-removebg-preview.png);
+}
+
+.telefone{
+  position: absolute;
+  width: 88.53px;
+  height: 83px;
+  left: 1071px;
+  top: 1750px;
+  background: url(52-529118_icono-telefono-png-phone-icon-white-png-removebg-preview.png);
+}
+
+#email1{
+  position: absolute;
+width: 165px;
+height: 44px;
+left: 440px;
+top: 100px;
+font-family: 'Handlee';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 53px;
+text-align: center;
+color: #000000;
+}
+#facebook1{
+  position: absolute;
+width: 102.66px;
+height: 83px;
+left: 840px;
+top: 100px;
+
+font-family: 'Handlee';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 53px;
+text-align: center;
+background: url(32ef69f54cc88d7e564e4f77fb3e5daa-removebg-preview.png);
+}
+#whats1{
+  position: absolute;
+  width: 86px;
+  height: 83px;
+  left: 1175px;
+  top: 100px;
+
+  font-family: 'Handlee';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 53px;
+  text-align: center;
+  background: url(th-removebg-preview (3).png);
+}
+#insta1{
+  position: absolute;
+  width: 165px;
+  height: 44px;
+  left: 450px;
+  top: 220px;
+  font-family: 'Handlee';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 53px;
+  text-align: center;
+  color: #000000;
+}
+
+#pinterest1{
+  position: absolute;
+  width: 165px;
+  height: 44px;
+  left: 840px;
+  top: 220px;
+  font-family: 'Handlee';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 53px;
+  text-align: center;
+  color: #000000;
+
+}
+#telefone1{
+  /* Telefone */
+  position: absolute;
+  width: 166px;
+  height: 44px;
+  left: 1175px;
+  top: 220px;
+  font-family: 'Handlee';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 53px;
+  text-align: center;
+
+  color: #000000;
+
 }
